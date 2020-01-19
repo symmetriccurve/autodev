@@ -1,0 +1,36 @@
+{
+  "name": "autodev",
+  "version": "1.0.0",
+  "description": "Terminal auto complete tool",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://symmetriccurve@github.com/symmetriccurve/autodev.git"
+  },
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "keywords": [
+    "auto",
+    "complete",
+    "choose",
+    "menu",
+    "nodejs",
+    "bash"
+  ],
+  "author": "Vikram Belde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/symmetriccurve/autodev/issues"
+  },
+  "homepage": "https://github.com/symmetriccurve/autodev#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.3",
+    "shelljs": "^0.8.3"
+  }
+}
