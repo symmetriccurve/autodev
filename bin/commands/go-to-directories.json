@@ -1,0 +1,11 @@
+{
+  "Portfolio - pf": {
+    "description": "opens portfolio in vscode",
+    "action": "cd /Users/vikrambelde/Personal\\ Projects/portfolio/ && code ."
+  },
+  "Profile Baker - pb": {
+    "description": "opens profile baker in vscode",
+    "action": "cd /Users/vikrambelde/resume-builder && code ."
+  },
+  "promptMessage": "Which folder ?"
+}

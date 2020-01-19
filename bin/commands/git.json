@@ -1,0 +1,16 @@
+{
+    "push": {
+      "description": "Push changes to git",
+      "action": "git push"
+    },
+    "rebase for last 3 commits": {
+      "description": "git rebase in interactive mode",
+      "action": "git rebase -i HEAD~3"
+    },
+    "amend": {
+        "description": "Amend changes to last commit and force push",
+        "action": "git add . && git commit --amend && git push --force"
+      },
+    "promptMessage": "Which git command?"
+  }
+  

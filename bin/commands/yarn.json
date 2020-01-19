@@ -1,0 +1,11 @@
+{
+    "promptMessage": "What to do with Yarn",
+    "yarn install": {
+      "description": "Installs node modules",
+      "action": "yarn install"
+    },
+    "yarn start": {
+      "description": "start node server",
+      "action": "yarn start"
+    }
+  }
