@@ -1,0 +1,1 @@
+This is tool to quick type commands into the terminal 
