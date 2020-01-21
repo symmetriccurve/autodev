@@ -10,6 +10,9 @@ Step to Install
 - Clone the repo
 > $: cd autodev
 
+- install node_modules
 > $: autodev> npm install
+
+- install globally 
 
 > $: autodev> npm install -g .
