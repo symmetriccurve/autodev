@@ -7,7 +7,7 @@ Step to Install
 
 > $: git clone https://github.com/symmetriccurve/autodev.git
 
-- Clone the repo
+- cd in to the project
 > $: cd autodev
 
 - install node_modules
